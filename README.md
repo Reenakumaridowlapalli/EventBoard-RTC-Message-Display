@@ -262,7 +262,7 @@ git clone https://github.com/<your-username>/<your-repo-name>.git
 
 ## 👩‍💻 Author
 
-**Your Name**
+**Reena Kumari Dowlapalli**
 🎓 Embedded Systems - Vector India
 🔗 [GitHub](https://github.com/Reenakumaridowlapalli) · [LinkedIn](https://linkedin.com/in/<your-profile>)
 
